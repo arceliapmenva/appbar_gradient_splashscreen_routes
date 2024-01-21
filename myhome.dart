@@ -20,7 +20,8 @@ class MyHome extends StatelessWidget {
               ], begin: Alignment.bottomLeft, end: Alignment.bottomRight),
               borderRadius: BorderRadius.circular(50),
             ),
-          )),
+          ),
+),
       backgroundColor: Colors.amber,
       body: Padding(
         padding: const EdgeInsets.all(8.0),
